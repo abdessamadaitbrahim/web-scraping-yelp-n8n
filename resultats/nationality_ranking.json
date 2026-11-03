@@ -1,0 +1,512 @@
+[
+  {
+    "rank": 1,
+    "nationality": "CA",
+    "count": 2681,
+    "percentage": 30.05
+  },
+  {
+    "rank": 2,
+    "nationality": "NY",
+    "count": 929,
+    "percentage": 10.41
+  },
+  {
+    "rank": 3,
+    "nationality": "FL",
+    "count": 498,
+    "percentage": 5.58
+  },
+  {
+    "rank": 4,
+    "nationality": "TX",
+    "count": 488,
+    "percentage": 5.47
+  },
+  {
+    "rank": 5,
+    "nationality": "France",
+    "count": 370,
+    "percentage": 4.15
+  },
+  {
+    "rank": 6,
+    "nationality": "IL",
+    "count": 288,
+    "percentage": 3.23
+  },
+  {
+    "rank": 7,
+    "nationality": "WA",
+    "count": 252,
+    "percentage": 2.82
+  },
+  {
+    "rank": 8,
+    "nationality": "Canada",
+    "count": 225,
+    "percentage": 2.52
+  },
+  {
+    "rank": 9,
+    "nationality": "MA",
+    "count": 208,
+    "percentage": 2.33
+  },
+  {
+    "rank": 10,
+    "nationality": "VA",
+    "count": 206,
+    "percentage": 2.31
+  },
+  {
+    "rank": 11,
+    "nationality": "NJ",
+    "count": 200,
+    "percentage": 2.24
+  },
+  {
+    "rank": 12,
+    "nationality": "GA",
+    "count": 178,
+    "percentage": 2.0
+  },
+  {
+    "rank": 13,
+    "nationality": "CO",
+    "count": 153,
+    "percentage": 1.71
+  },
+  {
+    "rank": 14,
+    "nationality": "PA",
+    "count": 148,
+    "percentage": 1.66
+  },
+  {
+    "rank": 15,
+    "nationality": "AZ",
+    "count": 143,
+    "percentage": 1.6
+  },
+  {
+    "rank": 16,
+    "nationality": "NC",
+    "count": 135,
+    "percentage": 1.51
+  },
+  {
+    "rank": 17,
+    "nationality": "United Kingdom",
+    "count": 112,
+    "percentage": 1.26
+  },
+  {
+    "rank": 18,
+    "nationality": "DC",
+    "count": 102,
+    "percentage": 1.14
+  },
+  {
+    "rank": 19,
+    "nationality": "MI",
+    "count": 98,
+    "percentage": 1.1
+  },
+  {
+    "rank": 20,
+    "nationality": "MD",
+    "count": 98,
+    "percentage": 1.1
+  },
+  {
+    "rank": 21,
+    "nationality": "NV",
+    "count": 88,
+    "percentage": 0.99
+  },
+  {
+    "rank": 22,
+    "nationality": "OH",
+    "count": 87,
+    "percentage": 0.98
+  },
+  {
+    "rank": 23,
+    "nationality": "OR",
+    "count": 75,
+    "percentage": 0.84
+  },
+  {
+    "rank": 24,
+    "nationality": "CT",
+    "count": 73,
+    "percentage": 0.82
+  },
+  {
+    "rank": 25,
+    "nationality": "IN",
+    "count": 72,
+    "percentage": 0.81
+  },
+  {
+    "rank": 26,
+    "nationality": "UT",
+    "count": 69,
+    "percentage": 0.77
+  },
+  {
+    "rank": 27,
+    "nationality": "TN",
+    "count": 67,
+    "percentage": 0.75
+  },
+  {
+    "rank": 28,
+    "nationality": "HI",
+    "count": 61,
+    "percentage": 0.68
+  },
+  {
+    "rank": 29,
+    "nationality": "MO",
+    "count": 59,
+    "percentage": 0.66
+  },
+  {
+    "rank": 30,
+    "nationality": "MN",
+    "count": 59,
+    "percentage": 0.66
+  },
+  {
+    "rank": 31,
+    "nationality": "LA",
+    "count": 49,
+    "percentage": 0.55
+  },
+  {
+    "rank": 32,
+    "nationality": "SC",
+    "count": 45,
+    "percentage": 0.5
+  },
+  {
+    "rank": 33,
+    "nationality": "WI",
+    "count": 43,
+    "percentage": 0.48
+  },
+  {
+    "rank": 34,
+    "nationality": "The Netherlands",
+    "count": 39,
+    "percentage": 0.44
+  },
+  {
+    "rank": 35,
+    "nationality": "Germany",
+    "count": 37,
+    "percentage": 0.41
+  },
+  {
+    "rank": 36,
+    "nationality": "Italy",
+    "count": 30,
+    "percentage": 0.34
+  },
+  {
+    "rank": 37,
+    "nationality": "Australia",
+    "count": 29,
+    "percentage": 0.33
+  },
+  {
+    "rank": 38,
+    "nationality": "KY",
+    "count": 28,
+    "percentage": 0.31
+  },
+  {
+    "rank": 39,
+    "nationality": "AL",
+    "count": 26,
+    "percentage": 0.29
+  },
+  {
+    "rank": 40,
+    "nationality": "OK",
+    "count": 25,
+    "percentage": 0.28
+  },
+  {
+    "rank": 41,
+    "nationality": "RI",
+    "count": 23,
+    "percentage": 0.26
+  },
+  {
+    "rank": 42,
+    "nationality": "KS",
+    "count": 20,
+    "percentage": 0.22
+  },
+  {
+    "rank": 43,
+    "nationality": "Switzerland",
+    "count": 17,
+    "percentage": 0.19
+  },
+  {
+    "rank": 44,
+    "nationality": "Sweden",
+    "count": 17,
+    "percentage": 0.19
+  },
+  {
+    "rank": 45,
+    "nationality": "Denmark",
+    "count": 17,
+    "percentage": 0.19
+  },
+  {
+    "rank": 46,
+    "nationality": "Spain",
+    "count": 16,
+    "percentage": 0.18
+  },
+  {
+    "rank": 47,
+    "nationality": "Belgium",
+    "count": 15,
+    "percentage": 0.17
+  },
+  {
+    "rank": 48,
+    "nationality": "NH",
+    "count": 14,
+    "percentage": 0.16
+  },
+  {
+    "rank": 49,
+    "nationality": "NM",
+    "count": 13,
+    "percentage": 0.15
+  },
+  {
+    "rank": 50,
+    "nationality": "ME",
+    "count": 11,
+    "percentage": 0.12
+  },
+  {
+    "rank": 51,
+    "nationality": "Hong Kong",
+    "count": 11,
+    "percentage": 0.12
+  },
+  {
+    "rank": 52,
+    "nationality": "AR",
+    "count": 10,
+    "percentage": 0.11
+  },
+  {
+    "rank": 53,
+    "nationality": "NE",
+    "count": 10,
+    "percentage": 0.11
+  },
+  {
+    "rank": 54,
+    "nationality": "Republic of Ireland",
+    "count": 10,
+    "percentage": 0.11
+  },
+  {
+    "rank": 55,
+    "nationality": "ID",
+    "count": 10,
+    "percentage": 0.11
+  },
+  {
+    "rank": 56,
+    "nationality": "MS",
+    "count": 9,
+    "percentage": 0.1
+  },
+  {
+    "rank": 57,
+    "nationality": "VT",
+    "count": 9,
+    "percentage": 0.1
+  },
+  {
+    "rank": 58,
+    "nationality": "Norway",
+    "count": 9,
+    "percentage": 0.1
+  },
+  {
+    "rank": 59,
+    "nationality": "DE",
+    "count": 8,
+    "percentage": 0.09
+  },
+  {
+    "rank": 60,
+    "nationality": "IA",
+    "count": 8,
+    "percentage": 0.09
+  },
+  {
+    "rank": 61,
+    "nationality": "Singapore",
+    "count": 8,
+    "percentage": 0.09
+  },
+  {
+    "rank": 62,
+    "nationality": "MT",
+    "count": 7,
+    "percentage": 0.08
+  },
+  {
+    "rank": 63,
+    "nationality": "Puerto Rico",
+    "count": 6,
+    "percentage": 0.07
+  },
+  {
+    "rank": 64,
+    "nationality": "AK",
+    "count": 5,
+    "percentage": 0.06
+  },
+  {
+    "rank": 65,
+    "nationality": "Japan",
+    "count": 5,
+    "percentage": 0.06
+  },
+  {
+    "rank": 66,
+    "nationality": "Czech Republic",
+    "count": 5,
+    "percentage": 0.06
+  },
+  {
+    "rank": 67,
+    "nationality": "WY",
+    "count": 5,
+    "percentage": 0.06
+  },
+  {
+    "rank": 68,
+    "nationality": "Turkey",
+    "count": 5,
+    "percentage": 0.06
+  },
+  {
+    "rank": 69,
+    "nationality": "New Zealand",
+    "count": 5,
+    "percentage": 0.06
+  },
+  {
+    "rank": 70,
+    "nationality": "Mexico",
+    "count": 5,
+    "percentage": 0.06
+  },
+  {
+    "rank": 71,
+    "nationality": "Portugal",
+    "count": 4,
+    "percentage": 0.04
+  },
+  {
+    "rank": 72,
+    "nationality": "Austria",
+    "count": 4,
+    "percentage": 0.04
+  },
+  {
+    "rank": 73,
+    "nationality": "Philippines",
+    "count": 4,
+    "percentage": 0.04
+  },
+  {
+    "rank": 74,
+    "nationality": "Brazil",
+    "count": 3,
+    "percentage": 0.03
+  },
+  {
+    "rank": 75,
+    "nationality": "WV",
+    "count": 3,
+    "percentage": 0.03
+  },
+  {
+    "rank": 76,
+    "nationality": "SD",
+    "count": 3,
+    "percentage": 0.03
+  },
+  {
+    "rank": 77,
+    "nationality": "Taiwan",
+    "count": 2,
+    "percentage": 0.02
+  },
+  {
+    "rank": 78,
+    "nationality": "Guam",
+    "count": 2,
+    "percentage": 0.02
+  },
+  {
+    "rank": 79,
+    "nationality": "Finland",
+    "count": 2,
+    "percentage": 0.02
+  },
+  {
+    "rank": 80,
+    "nationality": "U.S. Virgin Islands",
+    "count": 2,
+    "percentage": 0.02
+  },
+  {
+    "rank": 81,
+    "nationality": "Northern Mariana Islands",
+    "count": 2,
+    "percentage": 0.02
+  },
+  {
+    "rank": 82,
+    "nationality": "Argentina",
+    "count": 2,
+    "percentage": 0.02
+  },
+  {
+    "rank": 83,
+    "nationality": "Jersey",
+    "count": 1,
+    "percentage": 0.01
+  },
+  {
+    "rank": 84,
+    "nationality": "Poland",
+    "count": 1,
+    "percentage": 0.01
+  },
+  {
+    "rank": 85,
+    "nationality": "ND",
+    "count": 1,
+    "percentage": 0.01
+  }
+]

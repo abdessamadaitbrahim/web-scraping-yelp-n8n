@@ -1,0 +1,30 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+.Python
+
+# --- Selenium / Scraping ---
+chrome_profile/
+geckodriver.log
+chromedriver.log
+output/
+
+# --- Environnement & Secrets ---
+.env
+.env.local
+
+# --- Logs ---
+*.log
+scraper.log
+
+# --- OS & IDE ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
